@@ -1,0 +1,6 @@
+n=int(input())
+h=int(input())
+a=float(input())
+s=(h*a)
+print("NUMBER =",n)
+print("SALARY = U$ %.2f"%s)
